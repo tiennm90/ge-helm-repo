@@ -7,5 +7,5 @@ entries:
     description: A Helm chart for Kubernetes
     digest: 35a4e31bfacc496f1b1bce664652916bb8701cc9df77f1b90534f5234ff297a6
     name: helm-chart-test
-    version: 0.1.0
+    version: 0.0.0-0
 generated: 2019-04-16T11:10:08.729368+02:00
